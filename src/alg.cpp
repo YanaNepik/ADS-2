@@ -58,6 +58,6 @@ int countPairs3(int *arr, int len, int value) {
       l++;
     }
     p += p2;
-  }
-  return p;
+   }
+   return p;
   }
